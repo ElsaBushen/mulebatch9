@@ -1,1 +1,1 @@
-I am testing commit
+I am testing commit and I am checking that too
